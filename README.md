@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/shahriar-asraf-679126214](www.linkedin.com/in/shahriar-asraf-679126214)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/shahriar-asraf-679126214/
 
 - 📫 How to reach me **Shahriar.asraf@yahoo.com**
 
